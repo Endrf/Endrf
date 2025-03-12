@@ -1,5 +1,5 @@
 # <p align="center">***Endrf***</p>
-## <table align="center"><tr><td>I code stuff sometimes • I'll code anything in JavaScript</td></tr></table>
+## <table align="center"><tr><td>I code stuff sometimes</td></tr></table>
 
 <br>
 <br>
